@@ -1,0 +1,11 @@
+.footer {
+  grid-area: footer;
+  background-color: var(--primary-bg-color);
+  display: grid;
+  min-height: 50px;
+}
+.footer-style {
+  color: var(--heading-color);
+  justify-self: center;
+  align-self: center;
+}
